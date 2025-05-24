@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Paulo, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Superior em Engenharia de Software na Pitágoras e Técnico de Informática para Internet no Senai. Sou apaixonado por tecnologia, e quero me aprimorar na área de desenvolvimento FullStack.
+Me chamo João Paulo, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Superior em Engenharia de Software na Pitágoras e Técnico de Informática para Internet no Senai. Sou apaixonado por tecnologia e quero me aprimorar na área de desenvolvimento FullStack.
 
 <p align="left">
     <a href="https://github.com/joaopssouza?tab=repositories&sort=stargazers">
