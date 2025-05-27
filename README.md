@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Paulo
+# 👨‍💻 João Paulo
 
 **`Desenvolvedor FullStack`**
 
