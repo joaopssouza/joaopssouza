@@ -97,7 +97,7 @@ Me chamo João Paulo, tenho 25 anos e sou natural de Minas Gerais. Atualmente, e
       alt="GitHub Stats" 
       height="200" 
       width="350"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopssouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopssouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
