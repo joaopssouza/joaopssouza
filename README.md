@@ -6,7 +6,7 @@ Me chamo João Paulo, tenho 25 anos e sou natural de Minas Gerais. Atualmente, e
 
 <p align="center">
   <a href="mailto:joaop0737@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ap-joaopaulo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ap-joao-paulo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
