@@ -57,7 +57,7 @@ Me chamo João Paulo, tenho 25 anos e sou natural de Minas Gerais. Atualmente, e
   />
 </p>
 
-## 📫 How to reach me
+## 📫 Como entrar em contato comigo
 
 - 📧 Email: **joaop0737@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/ap-joao-paulo
