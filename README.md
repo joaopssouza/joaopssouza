@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 ### Olá, prazer em conhecê-lo! Bem-vindo a bordo! 👋
-Me chamo João Paulo, tenho 25 anos e sou natural de Minas Gerais. Atualmente, estou cursando Superior em Engenharia de Software na Pitágoras e Técnico de Informática para Internet no Senai. Sou apaixonado por tecnologia e quero me aprimorar na área de desenvolvimento FullStack.
+Me chamo João Paulo, tenho 26 anos e sou natural de Minas Gerais. Atualmente, estou cursando Superior em Engenharia de Software na Pitágoras e Técnico de Informática para Internet no Senai. Sou apaixonado por tecnologia e quero me aprimorar na área de desenvolvimento FullStack.
 
 <p align="center">
   <a href="mailto:joaop0737@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
